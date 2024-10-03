@@ -91,8 +91,8 @@ public:
         password_button->setText(QString());
         pushButton->setText(QCoreApplication::translate("MainWindow", "\320\222\320\276\320\271\321\202\320\270", nullptr));
         label->setText(QString());
-        label_login->setText(QCoreApplication::translate("MainWindow", "         \320\273\320\276\320\263\320\270\320\275", nullptr));
-        label_password->setText(QCoreApplication::translate("MainWindow", "  \320\277\320\260\321\200\320\276\320\273\321\214", nullptr));
+        label_login->setText(QCoreApplication::translate("MainWindow", "\320\273\320\276\320\263\320\270\320\275", nullptr));
+        label_password->setText(QCoreApplication::translate("MainWindow", "\320\277\320\260\321\200\320\276\320\273\321\214", nullptr));
     } // retranslateUi
 
 };
